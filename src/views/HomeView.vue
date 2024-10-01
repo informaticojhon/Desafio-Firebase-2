@@ -2,14 +2,8 @@
 
 <template>
   <main class="home-container">
-    <h1>Bienvenido al Home! 😎</h1>
-    <h2>Has iniciado sesión 🤭!</h2>
-    <a
-      ><img
-        class="catgif"
-        src="https://i.pinimg.com/originals/a9/fb/d4/a9fbd437bf2255bf60b6bff1fabf4bed.gif"
-        alt=""
-    /></a>
+    <h1>Bienvenido al Home</h1>
+    <h2>Has iniciado sesión</h2>
   </main>
 </template>
 

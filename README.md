@@ -1,6 +1,6 @@
 # Firebase Authentication App con Vue.js
 
-Este proyecto es un demo de una aplicación web que incluye autenticación de usuarios utilizando Firebase Authentication. La aplicación cuenta con tres vistas principales: `Sign Up`, `Login`, y `Home`. Solo los usuarios autenticados tienen acceso a la vista `Home`. Se utiliza `Vue Router` para gestionar las rutas y restringir el acceso.
+Este proyecto es un demo de una aplicación web que incluye autenticación de usuarios utilizando Firebase Authentication. La aplicación cuenta con tres vistas principales: `SignUpView`, `LoginView`, y `HomeView`. Solo los usuarios autenticados tienen acceso a la vista `Home`. Se utiliza `Vue Router` para gestionar las rutas y restringir el acceso.
 
 Tecnologías Utilizadas:
 -Vue.js - Framework JavaScript para la construcción de interfaces de usuario.

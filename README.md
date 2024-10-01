@@ -1,29 +1,9 @@
-# ./
+# Firebase Authentication App con Vue.js
 
-This template should help get you started developing with Vue 3 in Vite.
+Este proyecto es un demo de una aplicación web que incluye autenticación de usuarios utilizando Firebase Authentication. La aplicación cuenta con tres vistas principales: `Sign Up`, `Login`, y `Home`. Solo los usuarios autenticados tienen acceso a la vista `Home`. Se utiliza `Vue Router` para gestionar las rutas y restringir el acceso.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Tecnologías Utilizadas:
+-Vue.js - Framework JavaScript para la construcción de interfaces de usuario.
+-Firebase Authentication - Servicio de autenticación de usuarios.
+-Vue Router - Enrutador oficial para Vue.js.
+-Firebase Hosting - Servicio de hosting para aplicaciones web.
